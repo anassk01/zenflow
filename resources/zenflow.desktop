@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=ZenFlow
+Comment=A powerful productivity suite that helps you achieve your optimal flow state
+Exec=zenflow
+Icon=/opt/zenflow/resources/zenflow.png
+Terminal=false
+Type=Application
+Categories=Utility;Productivity;
+Keywords=productivity;focus;timer;pomodoro;
+Version=1.0 
