@@ -2,6 +2,8 @@
 
 A powerful productivity suite that combines intelligent website blocking with focus management to help you achieve your optimal flow state. ZenFlow creates a distraction-free digital environment, enabling deep work and enhanced productivity.
 
+![ZenFlow Preview](resources/preview.png)
+
 ## Features
 
 - 🛡️ Intelligent Website Blocking: Network-level filtering with automatic domain discovery
